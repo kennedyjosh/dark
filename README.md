@@ -5,4 +5,4 @@
 3. In Assests folder, double click on MainScene file
 4. Press play button in Unity and enjoy!
 
-For downloadable version or other inquiries, email: joshuakennedy2021@u.northwestern.edu
+For questions, comments, or concerns, email: joshuakennedy2021@u.northwestern.edu
